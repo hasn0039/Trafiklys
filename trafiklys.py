@@ -82,8 +82,8 @@ while True:
     led3.on()
     sleep(4)
     led3.off()
-    
-"""
+    """
+
 
 #Kode-knap/LED
 #Øvelse 5
@@ -95,7 +95,7 @@ while True:
         sleep(0.2)"""
         
 #Del 2
-
+"""
 led_state = False  
 last_button_state = 1 
 
@@ -115,7 +115,7 @@ while True:
         sleep(0.2)
 
     last_button_state = current_button_state
-    
+    """
     
 #Øvelse 6
     #Del1
